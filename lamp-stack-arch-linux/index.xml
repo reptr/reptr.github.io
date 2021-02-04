@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAMP Stack Arch Linux on reptr blog</title>
+    <link>https://reptr.github.io/lamp-stack-arch-linux/</link>
+    <description>Recent content in LAMP Stack Arch Linux on reptr blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 29 Jan 2021 01:33:17 +0700</lastBuildDate><atom:link href="https://reptr.github.io/lamp-stack-arch-linux/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

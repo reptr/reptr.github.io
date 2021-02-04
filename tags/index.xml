@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on reptr blog</title>
+    <link>https://reptr.github.io/tags/</link>
+    <description>Recent content in Tags on reptr blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 29 Jan 2021 01:33:17 +0700</lastBuildDate><atom:link href="https://reptr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAMPSTACK</title>
+      <link>https://reptr.github.io/tags/lampstack/</link>
+      <pubDate>Fri, 29 Jan 2021 01:33:17 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/tags/lampstack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

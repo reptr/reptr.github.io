@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAMPSTACK on reptr blog</title>
+    <link>https://reptr.github.io/tags/lampstack/</link>
+    <description>Recent content in LAMPSTACK on reptr blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 29 Jan 2021 01:33:17 +0700</lastBuildDate><atom:link href="https://reptr.github.io/tags/lampstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAMP Stack Arch Linux</title>
+      <link>https://reptr.github.io/lamp-stack-arch-linux/</link>
+      <pubDate>Fri, 29 Jan 2021 01:33:17 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/lamp-stack-arch-linux/</guid>
+      <description>Hallo, apa kabar semua ? Pasti baik-baik saja kan 😄
+By the way, LAMP (Linux Apache MariaDB PHP) merupakan sebuah paket perangkat lunak bebas yang digunakan untuk menjalankan sebuah aplikasi secara lengkap. Biasanya digunakan untuk menjalankan aplikasi berbasis web.
+ 1. Install Apache Apache merupakan server web yang dapat dijalankan di banyak sistem operasi. Apache sendiri dikembangkan oleh komunitas terbuka yang terdiri dari pengembang-pengembang di bawah naungan Apache Software Foundation.</description>
+    </item>
+    
+  </channel>
+</rss>

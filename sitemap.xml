@@ -1,0 +1,161 @@
+
+    <meta name="robots" content="index, follow, archive">
+
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>https://reptr.github.io/categories/archlinux/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/categories/archlinux/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/categories/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/categories/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/lamp-stack-arch-linux/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/lamp-stack-arch-linux/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/tags/lampstack/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/tags/lampstack/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/posts/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/posts/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/tags/</loc>
+            <lastmod>2021-02-04T20:37:43+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/tags/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/search/</loc>
+            <lastmod>2021-02-03T17:01:34+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/search/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/log/</loc>
+            <lastmod>2021-02-03T17:01:34+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/log/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/404/</loc>
+            <lastmod>2021-02-03T17:01:34+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/404/"
+                />
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://reptr.github.io/about/</loc>
+            <lastmod>2021-02-03T17:01:34+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://reptr.github.io/about/"
+                />
+        </url>
+        
+    
+</urlset>

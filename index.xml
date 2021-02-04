@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reptr blog</title>
+    <link>https://reptr.github.io/</link>
+    <description>Recent content on reptr blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 29 Jan 2021 01:33:17 +0700</lastBuildDate><atom:link href="https://reptr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAMP Stack Arch Linux</title>
+      <link>https://reptr.github.io/lamp-stack-arch-linux/</link>
+      <pubDate>Fri, 29 Jan 2021 01:33:17 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/lamp-stack-arch-linux/</guid>
+      <description>Hallo, apa kabar semua ? Pasti baik-baik saja kan 😄
+By the way, LAMP (Linux Apache MariaDB PHP) merupakan sebuah paket perangkat lunak bebas yang digunakan untuk menjalankan sebuah aplikasi secara lengkap. Biasanya digunakan untuk menjalankan aplikasi berbasis web.
+ 1. Install Apache Apache merupakan server web yang dapat dijalankan di banyak sistem operasi. Apache sendiri dikembangkan oleh komunitas terbuka yang terdiri dari pengembang-pengembang di bawah naungan Apache Software Foundation.</description>
+    </item>
+    
+    <item>
+      <title>CARI</title>
+      <link>https://reptr.github.io/search/</link>
+      <pubDate>Sun, 20 Sep 2020 02:29:14 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOG</title>
+      <link>https://reptr.github.io/log/</link>
+      <pubDate>Sun, 20 Sep 2020 02:29:14 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>404</title>
+      <link>https://reptr.github.io/404/</link>
+      <pubDate>Sun, 20 Sep 2020 02:26:51 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TENTANG</title>
+      <link>https://reptr.github.io/about/</link>
+      <pubDate>Sun, 20 Sep 2020 02:26:47 +0700</pubDate>
+      
+      <guid>https://reptr.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

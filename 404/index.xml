@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>404 on reptr blog</title>
+    <link>https://reptr.github.io/404/</link>
+    <description>Recent content in 404 on reptr blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Sun, 20 Sep 2020 02:26:51 +0700</lastBuildDate><atom:link href="https://reptr.github.io/404/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
